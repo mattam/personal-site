@@ -1,0 +1,9 @@
+#navbar {
+  background: red;
+  height: 50vh;
+}
+
+#navbar h3 {
+  font-size: 120%;
+  color: purple;
+}

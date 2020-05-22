@@ -1,0 +1,13 @@
+#aboutme {
+  background: green;
+  height: 100vh;
+}
+
+#aboutme .something {
+  background: blue;
+  height: 200px;
+}
+
+#aboutme input {
+  
+}
